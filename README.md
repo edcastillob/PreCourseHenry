@@ -1,2 +1,1 @@
-# PreCourseHenry
-Este es un repositorio del modulo II del Precurso de Henry
+Esto es una prueba que estoy realizando por "Henry" desde github a mi desktop local
